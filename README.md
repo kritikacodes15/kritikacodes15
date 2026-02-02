@@ -64,7 +64,7 @@
 
 - 📧 Email: [kritikanerd@gmail.com]  
 - 💼 LinkedIn: [www.linkedin.com/in/kritika-yadav-9130031a2]
-- 🌐 Portfolio: [ ]
+- 🌐 Portfolio: [https://codebasics.io/portfolio/Kritika-yadav]
 
 ---
 <h2 align="left">🚀 GitHub Stats</h2>
