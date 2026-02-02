@@ -67,12 +67,11 @@
 - 🌐 Portfolio: [ ]
 
 ---
-
 <h2 align="left">🚀 GitHub Stats</h2>
 
-![Kritika's GitHub Stats](### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kritikacodes15&show_icons=true&theme=default)
-)
+![Kritika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kritikacodes15&show_icons=true&theme=default)
+
+
 
 ---
 
